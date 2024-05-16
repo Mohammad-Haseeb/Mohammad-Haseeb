@@ -18,7 +18,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,aws,gcp,react,wasm,nest,postgres,firebase,docker,golang,redis,linux,tailwindcss,redis,solidity,mongodb,&perline=4)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
