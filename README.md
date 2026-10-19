@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Hasseb! 👋
 
- Driven by a curiosity for technology and a love for crafting ideas into real world softwares. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+Driven by a curiosity for technology and a love for crafting ideas into real world softwares. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![Mohammad Haseeb](https://github-readme-stats.vercel.app/api?username=Mohammad-Haseeb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
