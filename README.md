@@ -1,49 +1,58 @@
-# Hi, I'm Muhammad Hasseb! 👋
+# Hi, I'm Muhammad Haseeb! 👋
 
-Driven by a curiosity for technology and a love for crafting ideas into real world softwares. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+### Generative AI Engineer | Full-Stack Software Engineer | AWS Certified AI Practitioner
 
-![Mohammad Haseeb](https://github-readme-stats.vercel.app/api?username=Mohammad-Haseeb&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+I’m a software engineer with **5+ years of experience** building production-ready applications, AI-powered products, and scalable backend systems. I enjoy turning complex ideas into practical solutions—from **LLM applications and AI agents** to modern full-stack platforms.
 
-## 🚀 About Me
+- 💼 **Software Engineer at Kwanso**, working on software and AI solutions for international clients.
+- 🎓 Pursuing an **M.Sc. in Research in Computer & Systems Engineering** at **Technische Universität Ilmenau, Germany**.
+- 🤖 Interested in **Generative AI, RAG, multi-agent systems, and real-world AI integrations**.
+- 🌱 Currently exploring **distributed systems, AI architecture, and production-grade agent workflows**.
+- 💬 Happy to discuss **LLMs, system design, TypeScript, Python, and full-stack engineering**.
 
-- 🔭 I'm currently working as a Software Engineer at Kwanso in the San Francisco Bay Area.
--    Always Hungry to learn new technologies.
+## 🚀 What I Work On
 
-## My Articles
-- [🚀 Unlocking Concurrent Programming with the Actor Model in Elixir 🚀](https://www.linkedin.com/pulse/unlocking-concurrent-programming-actor-model-elixir-hussain-edrff/?trackingId=1e35tGnwTN2moXpyWLb9IQ%3D%3D)
-- [Unleashing the Backend Beast: Elevating Efficiency with Automation Deployment Magic! 🚀✨](https://www.linkedin.com/pulse/unleashing-backend-beast-elevating-efficiency-magic-hussain-gbxkf/?trackingId=0F%2B72PoVRSufiPEST3A2vw%3D%3D)
-- [Understanding Intrinsic and Extrinsic Value in Ethereum: A Real-World Analysis](https://www.linkedin.com/pulse/understanding-intrinsic-extrinsic-value-ethereum-analysis-hussain/?trackingId=0F%2B72PoVRSufiPEST3A2vw%3D%3D)
-- [Understanding Ethereum: The Decentralized Platform for Smart Contracts and DApps](https://www.linkedin.com/pulse/understanding-ethereum-decentralized-platform-smart-dapps-hussain/?trackingId=0F%2B72PoVRSufiPEST3A2vw%3D%3D)
-- [Rules for Storage Location in Solidity](https://www.linkedin.com/pulse/rules-storage-location-solidity-muhammad-haseeb-hussain/?trackingId=0F%2B72PoVRSufiPEST3A2vw%3D%3D)
+- **AI copilots and agents:** Building and integrating AI-assisted workflows using OpenAI, Claude, LangChain, and multi-agent approaches.
+- **Document intelligence:** Developing RAG-based pipelines for large-document analysis, retrieval, and summarization.
+- **Full-stack engineering:** Designing maintainable applications and APIs with TypeScript, React, Next.js, Node.js, and Python.
+- **Scalable architecture:** Improving performance and modernizing backend systems with microservices, cloud infrastructure, and CI/CD.
 
+## 🛠️ Tech Stack
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,aws,gcp,react,wasm,nest,postgres,firebase,docker,golang,linux,tailwindcss,redis,solidity,mongodb,express,nodejs&perline=4)](https://skillicons.dev)
+**Generative AI:** OpenAI, Claude, LangChain, LangGraph, RAG, LLMs, AI Agents, Embeddings, Vector Databases, pgvector
 
-## 🌱 Currently Exploring
+**Languages & Frameworks:** TypeScript, JavaScript, Python, Node.js, NestJS, Express, React, Next.js, FastAPI, GraphQL, tRPC
 
-- 🚀 Learning Distributed Computing
- 
+**Data & Cloud:** PostgreSQL, MongoDB, Redis, Firebase, AWS, Azure, Docker, Vercel, CI/CD
 
- ## 🏆 Achievements
+![My Skills](https://skillicons.dev/icons?i=ts,js,python,nodejs,nestjs,express,react,nextjs,fastapi,postgres,mongodb,redis,firebase,aws,azure,docker,git,linux,tailwind&perline=10)
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-- 🌟 Microsoft Student Ambassador
+## 💡 Selected Work
 
-## 📬 Get in Touch
+- **AI Copilot Integration:** Helped lead the development of AI copilot capabilities in collaboration with the Unlayer team, using LLMs and multi-agent workflows.
+- **Legal Document Intelligence:** Built an AI-powered document-processing solution using text chunking, vector search, LangChain, and LLMs to analyze lengthy legal materials.
+- **Backend Modernization:** Worked on migrating legacy architecture toward scalable services and improving application performance.
 
-- Connect with me on [Twitter](https://twitter.com/Muhamma84416570)
-- Check out my projects on [GitHub](https://github.com/Mohammad-Haseeb)
-- Check out my projects on [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-hussain/)
-  
+*Some of my professional work is in private repositories.*
 
- Let's connect and explore the fascinating world of technology together. 🚀
+## ✍️ Articles
 
+- [Unlocking Concurrent Programming with the Actor Model in Elixir](https://www.linkedin.com/pulse/unlocking-concurrent-programming-actor-model-elixir-hussain-edrff/)
+- [Unleashing the Backend Beast: Elevating Efficiency with Automation Deployment Magic](https://www.linkedin.com/pulse/unleashing-backend-beast-elevating-efficiency-magic-hussain-gbxkf/)
+- [Understanding Intrinsic and Extrinsic Value in Ethereum](https://www.linkedin.com/pulse/understanding-intrinsic-extrinsic-value-ethereum-analysis-hussain/)
+- [Understanding Ethereum: Smart Contracts and DApps](https://www.linkedin.com/pulse/understanding-ethereum-decentralized-platform-smart-dapps-hussain/)
+- [Rules for Storage Location in Solidity](https://www.linkedin.com/pulse/rules-storage-location-solidity-muhammad-haseeb-hussain/)
 
+## 🏆 Certifications & Community
 
-<!--
+- ☁️ **AWS Certified AI Practitioner** — Amazon Web Services
+- 🌟 **Microsoft Student Ambassador**
+- 🤝 **Hacktoberfest 2023** — Open-source contributor
 
-Here are some ideas to get you started:
+## 🤝 Let's Connect
 
-- 🔭 I’m currently working on AI Reading Project
-- 🌱 I’m currently learning RAG
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-hussain/)
+- 💻 [GitHub](https://github.com/Mohammad-Haseeb)
+- 🐦 [Twitter / X](https://twitter.com/Muhamma84416570)
+
+I’m always interested in learning, collaborating, and building useful technology. Feel free to connect!
